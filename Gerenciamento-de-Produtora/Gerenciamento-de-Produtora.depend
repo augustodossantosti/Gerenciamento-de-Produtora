@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460682579 source:c:\bkp\trabalho\github\gerenciamento-de-produtora\gerenciamento-de-produtora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
