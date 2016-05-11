@@ -24,6 +24,7 @@ void main()
     void listarCadastrados();//Funcao para Auxiliar programador
 
     //Implementacao
+    printf("Software para Gerenciamento de Produtoras\n\n");
 
     char opcao;
     while(opcao != 'S'){
@@ -109,7 +110,7 @@ void buscaPorData()
                 encontradas++;
             }
         }
-        if(encontradas <= 0) printf("Nenhuma Cerimonia encontrada para estes nubentes!\n\n");
+        if(encontradas <= 0) printf("Nenhuma Cerimonia encontrada para esta data!\n\n");
     }
 }
 
